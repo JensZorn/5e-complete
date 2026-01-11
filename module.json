@@ -26,8 +26,8 @@
     "url": "https://github.com/JensZorn/5e-complete",
     "bugs": "https://github.com/JensZorn/5e-complete/issues",
     "flags": {},
-    "manifest": "https://github.com/JensZorn/5e-complete/releases/download/5e-complete-v13/module.json",
-    "download": "https://github.com/JensZorn/5e-complete/releases/download/5e-complete-v13/5e-complete-v13.zip",
+    "manifest": "https://github.com/JensZorn/5e-complete/releases/download/v13/module.json",
+    "download": "https://github.com/JensZorn/5e-complete/releases/download/v13/5e-complete-v13.zip",
     "protected": false,
     "coreTranslation": false,
     "packs": [
