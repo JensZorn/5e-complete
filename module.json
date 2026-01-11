@@ -1,5 +1,5 @@
 {
-    "id": "completecompendium",
+    "id": "5e-complete",
     "title": "5e Complete Compendium",
     "description": "This module adds classes, subclasses, and other missing items from the D&D 5e SRD",
     "license": "The Unlicense",
@@ -23,11 +23,11 @@
         "verified": "13.350",
         "maximum": "13"
     },
-    "url": "https://github.com/zer0-5/5e-complete",
-    "bugs": "https://github.com/zer0-5/5e-complete/issues",
+    "url": "https://github.com/JensZorn/5e-complete",
+    "bugs": "https://github.com/JensZorn/5e-complete/issues",
     "flags": {},
-    "manifest": "https://github.com/zer0-5/5e-complete/releases/download/v13/module.json",
-    "download": "https://github.com/zer0-5/5e-complete/releases/download/v13/5e-complete-v13.zip",
+    "manifest": "https://github.com/JensZorn/5e-complete/releases/download/v13/module.json",
+    "download": "https://github.com/JensZorn/5e-complete/releases/download/v13/5e-complete-v13.zip",
     "protected": false,
     "coreTranslation": false,
     "packs": [
