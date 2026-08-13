@@ -20,8 +20,8 @@
     ],
     "compatibility": {
         "minimum": "11",
-        "verified": "13.350",
-        "maximum": "14"
+        "verified": "14.365",
+        "maximum": "15"
     },
     "url": "https://github.com/JensZorn/5e-complete",
     "bugs": "https://github.com/JensZorn/5e-complete/issues",
